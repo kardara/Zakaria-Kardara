@@ -81,9 +81,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zakaria-Kardara&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zakaria-Kardara&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kardara&show_icons=true&theme=github_dark" width="47%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kardara&theme=github-dark" width="47%" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kardara&layout=compact&theme=github_dark" width="47%" alt="Top Languages" />
+</p>
+
 
 ---
 
