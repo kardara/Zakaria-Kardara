@@ -3,8 +3,8 @@
 
 <p align="center">
   🌍 Chadian 🇹🇩 living in Rwanda 🇷🇼 <br/>
-  🎓 Studying at AUCA & ULK | 💡 Building real-world tech solutions <br/>
-  🔗 Passionate about tech for development, networks, and security
+  🎓 Studying at AUCA | 💡 Building real-world tech solutions <br/>
+  🔗 Passionate about tech for development and security
 </p>
 
 ---
