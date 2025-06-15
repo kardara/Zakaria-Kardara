@@ -3,7 +3,7 @@
 
 <p align="center">
   🌍 Chadian 🇹🇩 living in Rwanda 🇷🇼 <br/>
-  🎓 Studying at AUCA | 💡 Building real-world tech solutions <br/>
+  🎓 Studying at AUCA and curently part of the gym, the most intense software development training program in Rwanda | 💡 Building real-world tech solutions <br/>
   🔗 Passionate about tech for development and security
 </p>
 
