@@ -50,9 +50,10 @@
 
 ### ✅ MediReminder
 > A Flutter mobile app that reminds users when to take their medications, improving treatment adherence through a sleek and intuitive interface.
-
+### ✅ Employee Attendance Management System
+> A system to track the employee attendance and leave requests with robust security built using **Spring Boot** and **React**.
 ### 🔧 MotoExpress *(In Development)*
-> A full-stack platform for express motor delivery service — integrates real-time tracking, service scheduling, and customer feedback. Built using **Spring Boot** and **React**.
+> A full-stack platform for express motor delivery service — integrates real-time tracking, service scheduling, and customer feedback.
 
 ---
 
